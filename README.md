@@ -5,7 +5,7 @@ I am a FullStack Web developper living in France 🇫🇷.
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DGbosswaner)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dgwaner)
 
-- 🖥 I use daily ```php (with Symfony)```, ```Js (with ReacJs, Jquery)```
+- 🖥 I use daily ```php (with Symfony)```, ```Js (Jquery)```
 - 📝 I recently learning ```Typhon, Swift (SwiftUI)```
 
 ## Tech & Tools
@@ -17,6 +17,7 @@ I am a FullStack Web developper living in France 🇫🇷.
 [![php badge](https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=646593&style=for-the-badge)](#)
 [![symfony badge](https://img.shields.io/badge/SYMFONY-282C34?logo=symfony&logoColor=ffffff&style=for-the-badge)](#)
 [![swift badge](https://img.shields.io/badge/Swift-282C34?logo=swift&logoColor=red&style=for-the-badge)](#)
+[![python badge](https://img.shields.io/badge/PYTHON-282C34?logo=python&logoColor=yellow&style=for-the-badge)](#)
 [![mysql badge](https://img.shields.io/badge/MYSQL-282C34?logo=mysql&logoColor=ea8c0f&style=for-the-badge)](#)
 [![docker badge](https://img.shields.io/badge/DOCKER-282C34?logo=docker&logoColor=0e7a98&style=for-the-badge)](#)
 [![git badge](https://img.shields.io/badge/GIT-282C34?logo=git&logoColor=f05032&style=for-the-badge)](#)
