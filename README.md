@@ -6,7 +6,7 @@ I am a FullStack Web developper living in France 🇫🇷.
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dgwaner)
 
 - 🖥 I use daily ```php (with Symfony)```, ```Js (with ReacJs, Jquery)```
-- 📝 I recently learning ```Swift (SwiftUI)```
+- 📝 I recently learning ```Typhon, Swift (SwiftUI)```
 
 ## Tech & Tools
 
